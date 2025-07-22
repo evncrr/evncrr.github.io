@@ -11,3 +11,8 @@ Data analytics projects
 - project 1
 - project 2
 
+### Medium
+- medium articles
+### Kaggle
+- kaggle data analysis
+
