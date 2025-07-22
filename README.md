@@ -8,6 +8,9 @@ DMI IT Intern
 
 ### Projects
 Data analytics projects
+## R projects
+## SQL projects
+## Python projects
 - project 1
 - project 2
 
