@@ -8,6 +8,8 @@ DMI IT Intern
 
 ## Projects
 ### Python Projects
+- project 1
+- project 2
 ### R Projects
 ### SQL Projects
 ### PowerBi/Tableau Projects
@@ -19,6 +21,4 @@ DMI IT Intern
 - kaggle data analysis
 
 ## Certifications
-
-## Skills
-
+- Google Data Analytics
