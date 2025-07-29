@@ -20,7 +20,7 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Designed features for users including account creation, habit addition and deletion, habit viewing, and the ability to mark habits as complete or check their status.
 - Implemented a user-friendly menu for easy navigation and interaction with the application.
 
-"Weather Now"
+<br> "Weather Now"
 - Developed a web page that provides accurate and up-to-date weather information for users.
 - Integrated the Open-Meteo API to fetch and display real-time weather data, ensuring accurate and up-to-date weather conditions for users of any location.
 - Implemented a feature allowing users to enter coordinates to view a graph and map of current weather conditions at the specified location.
