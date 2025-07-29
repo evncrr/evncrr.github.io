@@ -19,6 +19,7 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Developed a Python application using SQLite that allows users to manage their habits through a comprehensive database system.
 - Designed features for users including account creation, habit addition and deletion, habit viewing, and the ability to mark habits as complete or check their status.
 - Implemented a user-friendly menu for easy navigation and interaction with the application.
+
 "Weather Now"
 - Developed a web page that provides accurate and up-to-date weather information for users.
 - Integrated the Open-Meteo API to fetch and display real-time weather data, ensuring accurate and up-to-date weather conditions for users of any location.
