@@ -5,6 +5,7 @@ University of Maryland, College of Information August 2022 – May 2026
 BS Information Science | Concentration: Data Science & Cybersecurity | Minor: Information Risk Management, Ethics, and Privacy
 Relevant Coursework: Object-Oriented Programming | Database Design and Modeling | Dynamic Web Applications | Data Science
 Techniques | Technologies, Infrastructure, and Architecture | Data Sources and Manipulation | Human-Centered Cybersecurity
+
 GPA : 3.7
 
 ### Work Experience
