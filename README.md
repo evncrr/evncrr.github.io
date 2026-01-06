@@ -56,9 +56,10 @@ Link to medium articles here https://medium.com/@ecarr1 which includes data anay
 ## Technical Skills
 - Programming: Python, R, HTML, CSS
 - Databases: SQL, Tableau, Excel
-- Cloud & Security: Microsoft Azure, Zscaler, Intune
+- Cloud & Security: Microsoft Azure, Zscaler, Intune, Splunk, SIEM
 ## Certifications
 - Google Data Analytics
 - Career Essentials in Data Analysis – Microsoft & LinkedIn
 - SQL Essential Training
 - Tableau Essential Training
+- Splunk Training
