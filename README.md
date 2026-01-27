@@ -1,4 +1,4 @@
-# Data Analyst and IT
+# Data Analyst and Cybersecurity
 
 ### Education
 University of Maryland, College of Information August 2022 – May 2026
