@@ -16,12 +16,12 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Ensured speedy and accurate responses to support tickets, effectively troubleshooting staff issues to improve operational efficiency.
 ## Projects
 ### Python Projects
-"Habit Hero"
+["Habit Hero"](https://github.com/evncrr/Habit-Hero)
 - Developed a Python application using SQLite for managing habits through a structured database.
 - Designed features for account creation, habit tracking, and progress monitoring, enhancing user experience.
 - Implemented a user-friendly menu interface for easy navigation and interaction.
 
-"Weather Now"
+["Weather Now"](https://github.com/evncrr/WeatherNow)
 - Developed a web page that provides real-time weather information for users.
 - Integrated the Open-Meteo API to fetch and display accurate weather data for any location.
 - Implemented a feature allowing users to enter coordinates to generate interactive graphs and maps of current weather
