@@ -36,7 +36,7 @@ conditions.
 and All-Star selections.
 
 ### R Projects
-"Sleep Health and Lifestyle"
+["Sleep Health and Lifestyle"](https://github.com/evncrr/Sleep-Health-and-Lifestyle)
 - Conducted statistical analysis using one-way ANOVA and linear regression to test relationships between occupation, stress, and sleep outcomes.
 - Interpreted and visualized results to identify significant patterns, such as how stress levels impact sleep quality.
 - Cleaned and prepared a dataset of 374 individuals, including demographic, lifestyle, and health variables.
