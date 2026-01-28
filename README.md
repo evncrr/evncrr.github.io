@@ -26,15 +26,6 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Integrated the Open-Meteo API to fetch and display accurate weather data for any location.
 - Implemented a feature allowing users to enter coordinates to generate interactive graphs and maps of current weather
 conditions.
-
-### Kaggle Medium Projects
-“Analyzing What Determines Baseball Hall of Fame Induction”
-- Collected and cleaned historical MLB data from Kaggle to analyze Hall of Fame voting trends.
-- Built and evaluated an XGBoost classification model to predict induction likelihood based on performance and accolades.
-- Applied similarity metrics and clustering (PCA) to group players by career profiles and identify archetypes of Hall of Famers.
-- Created heatmaps and feature importance visualizations to highlight the most influential factors such as hits, RBIs, awards,
-and All-Star selections.
-
 ### R Projects
 ["Sleep Health and Lifestyle"](https://github.com/evncrr/Sleep-Health-and-Lifestyle)
 - Conducted statistical analysis using one-way ANOVA and linear regression to test relationships between occupation, stress, and sleep outcomes.
@@ -47,12 +38,25 @@ and All-Star selections.
 - Created views and queries to efficiently retrieve data and provide insights for stakeholders.
 - Optimized database structure and queries to enable detailed analysis of EV performance metrics and comparisons across
 models.
-### PowerBi/Tableau Projects
-- project 3
-
-### Medium
-Link to medium articles here https://medium.com/@ecarr1 which includes data anaylsis complemented with a detailed analysis of the process and insights
-
+### Kaggle Projects
+[“Analyzing What Determines Baseball Hall of Fame Induction”](https://github.com/evncrr/module-final)
+- Collected and cleaned historical MLB data from Kaggle to analyze Hall of Fame voting trends.
+- Built and evaluated an XGBoost classification model to predict induction likelihood based on performance and accolades.
+- Applied similarity metrics and clustering (PCA) to group players by career profiles and identify archetypes of Hall of Famers.
+- Created heatmaps and feature importance visualizations to highlight the most influential factors such as hits, RBIs, awards,
+and All-Star selections.
+["Predicting NBA Contracts Using Statistics"](https://github.com/evncrr/module-6)
+- descrition
+- sdisjflsdf
+["Identifying MLB Batter Archetypes Through Clustering"](https://github.com/evncrr/module-4)
+- deisdjfl
+- sldifjlasdijf
+["Which MLB Players are Most Similar?"](https://github.com/evncrr/module-3)
+- sdaklfjlskad
+- asldkfjlsakdjf
+["Web Based Analysis: Charting Spotify Artist Collaborations"](https://github.com/evncrr/module-2)
+- alskdjf
+- asldkfjalsdkjf
 ## Technical Skills
 - Programming: Python, R, HTML, CSS
 - Databases: SQL, Tableau, Excel
