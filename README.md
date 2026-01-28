@@ -45,18 +45,23 @@ models.
 - Applied similarity metrics and clustering (PCA) to group players by career profiles and identify archetypes of Hall of Famers.
 - Created heatmaps and feature importance visualizations to highlight the most influential factors such as hits, RBIs, awards,
 and All-Star selections.
+
 ["Predicting NBA Contracts Using Statistics"](https://github.com/evncrr/module-6)
 - descrition
 - sdisjflsdf
+
 ["Identifying MLB Batter Archetypes Through Clustering"](https://github.com/evncrr/module-4)
 - deisdjfl
 - sldifjlasdijf
+
 ["Which MLB Players are Most Similar?"](https://github.com/evncrr/module-3)
 - sdaklfjlskad
 - asldkfjlsakdjf
+
 ["Web Based Analysis: Charting Spotify Artist Collaborations"](https://github.com/evncrr/module-2)
 - alskdjf
 - asldkfjalsdkjf
+
 ## Technical Skills
 - Programming: Python, R, HTML, CSS
 - Databases: SQL, Tableau, Excel
