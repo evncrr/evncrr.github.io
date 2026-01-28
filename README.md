@@ -42,7 +42,7 @@ and All-Star selections.
 - Cleaned and prepared a dataset of 374 individuals, including demographic, lifestyle, and health variables.
 - Collaborated with team members to develop hypotheses, perform post-hoc tests (Tukey HSD), and deliver a presentation to communicate the steps of the project, results, and actionable health insights.
 ### SQL Projects
-"Electric Vehicle Database"
+["Electric Vehicle Database"](https://github.com/evncrr/Electric-Vehicle-Database)
 - Designed and implemented a SQL database that tracks electric vehicle attributes including make, model, and range.
 - Created views and queries to efficiently retrieve data and provide insights for stakeholders.
 - Optimized database structure and queries to enable detailed analysis of EV performance metrics and comparisons across
