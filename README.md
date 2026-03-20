@@ -16,6 +16,12 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 ## Projects
 
 ### SQL Projects
+["Cybersecurity Attack Intelligence Database"](https://github.com/evncrr/Attacks-Database)
+- Engineered a relational database to store and analyze simulated enterprise cybersecurity attack logs, including network traffic, malware indicators, IDS/IPS alerts, and device information.
+- Created 10+ SQL views to summarize attack patterns, including top source IPs, attack types, severity distributions, targeted ports, geographic distribution, and defense effectiveness.
+- Implemented indexed queries and aggregated views to optimize investigation workflows and monitoring dashboards.
+- Translated raw log data into actionable threat intelligence insights, supporting simulated SOC monitoring and security decision-making.
+
 ["Customer Support Ticket Intelligence System"](https://github.com/evncrr/Support-Tickets)
 - Built a SQL intelligence system to analyze customer support tickets, identifying trends, SLA compliance, and resolution bottlenecks.
 - Developed views to track ticket types, product issues, and customer satisfaction, turning raw data into actionable insights.
@@ -25,12 +31,6 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Developed a relational database to analyze network intrusion and phishing patterns through structured schema design.
 - Created SQL views and queries to detect anomalies, classify threats, and generate actionable security insights.
 - Designed a normalized risk scoring model to quantify threat severity and support SOC-style monitoring dashboards.
-
-["Cybersecurity Attack Intelligence Database"](https://github.com/evncrr/Attacks-Database)
-- Engineered a relational database to store and analyze simulated enterprise cybersecurity attack logs, including network traffic, malware indicators, IDS/IPS alerts, and device information.
-- Created 10+ SQL views to summarize attack patterns, including top source IPs, attack types, severity distributions, targeted ports, geographic distribution, and defense effectiveness.
-- Implemented indexed queries and aggregated views to optimize investigation workflows and monitoring dashboards.
-- Translated raw log data into actionable threat intelligence insights, supporting simulated SOC monitoring and security decision-making.
 
 ["Electric Vehicle Database"](https://github.com/evncrr/Electric-Vehicle-Database)
 - Designed and implemented a SQL database that tracks electric vehicle attributes including make, model, and range.
