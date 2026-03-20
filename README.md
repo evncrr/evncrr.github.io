@@ -6,8 +6,6 @@ Relevant Coursework:
 Object-Oriented Programming | Database Design and Modeling | Dynamic Web Applications | Data Science
 Techniques | Data Sources and Manipulation | Managing with Data and Simulations | Technologies, Infrastructure, and Architecture | Human-Centered Cybersecurity | Decision Making for Cybersecurity | Risk Management Leadership in the Information Age
 
-GPA : 3.7 
-
 ### Work Experience
 IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Managed IT tasks across 200+ user accounts using Zscaler, Microsoft Azure, Exchange, Intune, and Excel, improving system efficiency and reducing security incidents.
@@ -16,6 +14,7 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Resolved 95% of IT support tickets within SLA, minimizing downtime and increasing staff productivity.
 
 ## Projects
+
 ### SQL Projects
 ["Cybersecurity Attack Intelligence Database"](https://github.com/evncrr/Attacks-Database)
 - Engineered a security analytics database processing simulated enterprise attack log data.
@@ -69,6 +68,7 @@ and All-Star selections.
 - Integrated the Open-Meteo API to fetch and display accurate weather data for any location.
 - Implemented a feature allowing users to enter coordinates to generate interactive graphs and maps of current weather
 conditions.
+
 ### R Projects
 ["Sleep Health and Lifestyle"](https://github.com/evncrr/Sleep-Health-and-Lifestyle)
 - Conducted statistical analysis using one-way ANOVA and linear regression to test relationships between occupation, stress, and sleep outcomes.
