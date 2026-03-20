@@ -1,4 +1,4 @@
-### Education
+## Education
 University of Maryland, College of Information August 2022 – May 2026
 BS Information Science | Concentration: Data Science & Cybersecurity | Minor: Information Risk Management, Ethics, and Privacy
 
@@ -6,7 +6,7 @@ Relevant Coursework:
 Object-Oriented Programming | Database Design and Modeling | Dynamic Web Applications | Data Science
 Techniques | Data Sources and Manipulation | Managing with Data and Simulations | Technologies, Infrastructure, and Architecture | Human-Centered Cybersecurity | Decision Making for Cybersecurity | Risk Management Leadership in the Information Age
 
-### Work Experience
+## Work Experience
 IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 - Managed IT tasks across 200+ user accounts using Zscaler, Microsoft Azure, Exchange, Intune, and Excel, improving system efficiency and reducing security incidents.
 - Collaborated with the IT help desk team, resolving 50+ support tickets weekly.
