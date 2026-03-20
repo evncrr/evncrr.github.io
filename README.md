@@ -39,23 +39,21 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 
 ### Python Projects
 [“Analyzing What Determines Baseball Hall of Fame Induction”](https://github.com/evncrr/module-final)
-- Collected and cleaned historical MLB data from Kaggle to analyze Hall of Fame voting trends.
-- Built and evaluated an XGBoost classification model to predict induction likelihood based on performance and accolades.
-- Applied similarity metrics and clustering (PCA) to group players by career profiles and identify archetypes of Hall of Famers.
-- Created heatmaps and feature importance visualizations to highlight the most influential factors such as hits, RBIs, awards,
-and All-Star selections.
+- Cleaned and analyzed historical MLB data to study Hall of Fame voting trends.
+- Built XGBoost model to predict induction likelihood based on player performance and accolades.
+- Applied PCA and clustering to identify career archetypes of Hall of Famers.
+- Visualized key factors (hits, RBIs, awards) to highlight predictors of induction.
 
 ["Predicting NBA Contracts Using Statistics"](https://github.com/evncrr/module-6)
-- Developed a Random Forest regression model to predict NBA player salaries using performance and advanced metrics.
-- Cleaned and engineered features from NBA statistics and contract data (2022–23) sourced from Kaggle/Basketball Reference, including shooting efficiency and advanced analytics.
-- Evaluated model performance and analyzed prediction errors and outliers, identifying the impact of rookie contracts, max contracts, injuries, and non-statistical factors.
-- Translated analytical results into business insights for NBA general managers, demonstrating how data-driven modeling can support contract valuation and salary cap decisions.
+- Developed Random Forest model to predict NBA salaries using advanced player metrics.
+- Engineered features from stats and contract data to improve prediction accuracy.
+- Evaluated model performance, highlighting the impact of contracts, injuries, and non-statistical factors.
+- Provided actionable insights for NBA GMs on contract valuation and salary decisions.
 
 ["Identifying MLB Batter Archetypes Through Clustering"](https://github.com/evncrr/module-4)
-- Clustered MLB hitters (1871–2015) using KMeans on standardized per–at-bat offensive metrics to identify five distinct batting archetypes (power, contact, speed, balanced, replacement-level).
-- Engineered career-level features by aggregating seasonal data, filtering players with 1,000+ at-bats, and normalizing statistics using StandardScaler to ensure fair similarity comparisons.
-- Selected optimal cluster count (k = 5) using the elbow method and applied PCA for dimensionality reduction and cluster interpretation.
-- Translated clustering results into actionable lineup and roster insights for MLB managers, supporting decisions on batting order construction and player acquisition based on offensive role fit.
+- Clustered MLB hitters using KMeans on standardized offensive metrics to define five archetypes.
+- Engineered career-level features and applied PCA for dimensionality reduction.
+- Delivered insights on lineup construction and player acquisition based on batting roles.
 
 ["Habit Hero"](https://github.com/evncrr/Habit-Hero)
 - Developed a Python application using SQLite for managing habits through a structured database.
