@@ -81,10 +81,11 @@ conditions.
 - Data & Machine Learning: Data cleaning, visualization, modeling, predictive analytics, clustering
 - Web & Development: HTML, CSS
 - Cloud & IT Security Tools: Microsoft Azure, Zscaler, Intune, Splunk (SIEM), enterprise security monitoring
+
 ## Certifications
 - Google Data Analytics Certificate
 - Career Essentials in Data Analysis – Microsoft & LinkedIn Learning
 - SQL Essential Training – LinkedIn Learning
 - Tableau Essential Training – LinkedIn Learning
 - Splunk Fundamentals Certificate
-- CompTIA Security+ – Certificate in progress# evncrr.github.io
+- CompTIA Security+ – Certificate in progress
