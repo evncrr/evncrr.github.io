@@ -17,14 +17,14 @@ IT Intern– DMI (Digital Management, LLC), McLean, VA May 2024 – July 2024
 
 ### SQL Projects
 ["Customer Support Ticket Intelligence System"](https://github.com/evncrr/Support-Tickets)
-- Built a SQL-based intelligence system to analyze customer support tickets, identifying trends, SLA compliance, and resolution bottlenecks.
+- Built a SQL intelligence system to analyze customer support tickets, identifying trends, SLA compliance, and resolution bottlenecks.
 - Developed views to track ticket types, product issues, and customer satisfaction, turning raw data into actionable insights.
-- Highlighted high-priority tickets, slow resolutions, and low-satisfaction customers, enabling data-driven improvements to support operations.
+- Highlighted high-priority tickets and slow resolutions, enabling data-driven operational improvements.
 
 ["Cyber Threat Analysis"](https://github.com/evncrr/Threat-Analysis)
-- Developed a cyber threat intelligence database using MySQL to analyze network intrusion and phishing attack patterns through relational schema design.
-- Created analytical SQL views and queries to detect anomalies, classify threats, and generate security insights using aggregation, statistical thresholds, and cross-dataset comparisons.
-- Designed a normalized cybersecurity risk scoring model to quantify threat severity and support data-driven security monitoring and decision-making.
+- Developed a relational database to analyze network intrusion and phishing patterns through structured schema design.
+- Created SQL views and queries to detect anomalies, classify threats, and generate actionable security insights.
+- Designed a normalized risk scoring model to quantify threat severity and support SOC-style monitoring dashboards.
 
 ["Cybersecurity Attack Intelligence Database"](https://github.com/evncrr/Attacks-Database)
 - Engineered a relational database to store and analyze simulated enterprise cybersecurity attack logs, including network traffic, malware indicators, IDS/IPS alerts, and device information.
