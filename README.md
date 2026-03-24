@@ -1,7 +1,6 @@
 ## Education
-**University of Maryland**, College of Information
+**University of Maryland**, College of Information August 2022 – May 2026
 
-August 2022 – May 2026
 
 **BS Information Science**
 | Concentration: Data Science & Cybersecurity | Minor: Information Risk Management, Ethics, and Privacy
