@@ -64,6 +64,17 @@ Techniques | Data Sources and Manipulation | Managing with Data and Simulations 
 - Implemented a feature allowing users to enter coordinates to generate interactive graphs and maps of current weather
 conditions.
 
+### Security Projects
+“Active Directory Home Lab”
+- Built a virtualized Active Directory environment using Oracle VirtualBox to simulate an enterprise domain with Windows Server, domain-joined clients, and centralized authentication services.
+- Configured user and group management and Group Policy Objects (GPOs) to enforce security policies and replicate enterprise access control and authentication workflows.
+- Simulated attacker activity using Kali Linux (red team techniques) and analyzed resulting security events in Splunk, investigating authentication attempts and suspicious behavior through Windows Security Event Logs.
+
+“SSH Log Analysis & Intrusion Detection”
+- Ingested and analyzed SSH authentication logs using Splunk to monitor login activity, including successful logins, failed attempts, and unauthenticated connections.
+- Developed SPL queries to detect suspicious behavior such as repeated failed login attempts, potential brute-force attacks, and anomalous IP activity.
+- Built dashboards to visualize authentication trends and support SOC-style investigation of access patterns and potential security threats.
+
 ### R Projects
 ["Sleep Health and Lifestyle"](https://github.com/evncrr/Sleep-Health-and-Lifestyle)
 - Conducted statistical analysis using one-way ANOVA and linear regression to test relationships between occupation, stress, and sleep outcomes.
@@ -75,7 +86,10 @@ conditions.
 - Programming & Analytics: Python, R, SQL, Git/GitHub, Excel, Tableau
 - Data & Machine Learning: Data cleaning, visualization, predictive modeling, feature engineering, clustering, PCA
 - Web & Development: HTML, CSS
-- Cloud & IT Security: Microsoft Azure, Zscaler, Intune, Splunk (SIEM), ServiceNow, enterprise security monitoring
+- SIEM: Splunk (log analysis, dashboards, alerting)
+- Security Operations: Incident response, authentication monitoring, threat analysis
+- Identity & Access Management: Active Directory, Azure AD, Intune
+- Security Tools: ServiceNow, Zscaler, VirtualBox
 
 ## Certifications
 - Google Data Analytics Certificate
