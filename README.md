@@ -65,12 +65,12 @@ Techniques | Data Sources and Manipulation | Managing with Data and Simulations 
 conditions.
 
 ### Security Projects
-“Active Directory Home Lab”
+*“Active Directory Home Lab”*
 - Built a virtualized Active Directory environment using Oracle VirtualBox to simulate an enterprise domain with Windows Server, domain-joined clients, and centralized authentication services.
 - Configured user and group management and Group Policy Objects (GPOs) to enforce security policies and replicate enterprise access control and authentication workflows.
 - Simulated attacker activity using Kali Linux (red team techniques) and analyzed resulting security events in Splunk, investigating authentication attempts and suspicious behavior through Windows Security Event Logs.
 
-“SSH Log Analysis & Intrusion Detection”
+*“SSH Log Analysis & Intrusion Detection”*
 - Ingested and analyzed SSH authentication logs using Splunk to monitor login activity, including successful logins, failed attempts, and unauthenticated connections.
 - Developed SPL queries to detect suspicious behavior such as repeated failed login attempts, potential brute-force attacks, and anomalous IP activity.
 - Built dashboards to visualize authentication trends and support SOC-style investigation of access patterns and potential security threats.
