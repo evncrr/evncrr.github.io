@@ -83,13 +83,13 @@ conditions.
 - Collaborated with team members to develop hypotheses, perform post-hoc tests (Tukey HSD), and deliver a presentation to communicate the steps of the project, results, and actionable health insights.
 
 ## Technical Skills
-- Programming & Analytics: Python, R, SQL, Git/GitHub, Excel, Tableau
-- Data & Machine Learning: Data cleaning, visualization, predictive modeling, feature engineering, clustering, PCA
-- Web & Development: HTML, CSS
-- SIEM: Splunk (log analysis, dashboards, alerting)
-- Security Operations: Incident response, authentication monitoring, threat analysis
-- Identity & Access Management: Active Directory, Azure AD, Intune
-- Security Tools: ServiceNow, Zscaler, VirtualBox
+- **Programming & Analytics:** Python, R, SQL, Git/GitHub, Excel, Tableau
+- **Data & Machine Learning:** Data cleaning, visualization, predictive modeling, feature engineering, clustering, PCA
+- **Web & Development:** HTML, CSS
+- **SIEM:** Splunk (log analysis, dashboards, alerting)
+- **Security Operations:** Incident response, authentication monitoring, threat analysis
+- **Identity & Access Management:** Active Directory, Azure AD, Intune
+- **Security Tools:** ServiceNow, Zscaler, VirtualBox
 
 ## Certifications
 - Google Data Analytics Certificate
